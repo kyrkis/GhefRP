@@ -1,0 +1,17 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/base"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_1_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_1_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_1_3"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_2_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_2_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_2_3"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_3"}
+    ]
+  }
+}
