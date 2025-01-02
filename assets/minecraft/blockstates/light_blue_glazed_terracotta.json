@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=north": [
+            { "model": "ghef:item/empty", "y":0,   "weight": 100}
+        ],
+        "facing=east": [
+            { "model": "ghef:item/empty", "y":90,   "weight": 100}
+        ],
+        "facing=south": [
+            { "model": "ghef:item/empty", "y":180,   "weight": 100}
+        ],
+        "facing=west": [
+            { "model": "ghef:item/empty", "y":270,   "weight": 100}
+        ]
+    }
+}

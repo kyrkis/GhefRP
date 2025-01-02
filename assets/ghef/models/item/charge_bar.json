@@ -1,0 +1,33 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ghef:item/charge_meter",
+		"particle": "ghef:item/charge_meter"
+	},
+	"elements": [
+		{
+			"from": [0, 4.5, 8],
+			"to": [16, 7, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 5, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.25, 4.75, 8.05],
+			"to": [15.25, 6.75, 8.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 5, 6.05]},
+			"faces": {
+				"north": {"uv": [1, 5.75, 15, 7.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.5, 4.75, 8.025],
+			"to": [15, 6.75, 8.025],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 5, 6.025]},
+			"faces": {
+				"north": {"uv": [14.5, 3.5, 15, 5.5], "texture": "#0"}
+			}
+		}
+	]
+}

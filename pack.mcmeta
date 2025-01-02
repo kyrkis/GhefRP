@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 44,
+    "description": [
+      {
+        "text": "Ghef Minigame Pack",
+        "color": "#f52684"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "By",
+        "color": "dark_gray"
+      },
+      {
+        "text": " Kyrius",
+        "color": "#0cab9e"
+      }
+    ],
+    "supported_formats": {
+      "min_inclusive": 44,
+      "max_inclusive": 60
+    }
+  },
+  "isalpha": true,
+  "version": "0.7.0"
+}

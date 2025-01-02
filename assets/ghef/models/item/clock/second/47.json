@@ -1,0 +1,29 @@
+{
+	"parent": "ghef:item/clock/second/template",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 282]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 282]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 282]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 282]
+		},
+		"ground": {
+			"rotation": [0, 0, 282]
+		},
+		"gui": {
+			"rotation": [0, 0, 282]
+		},
+		"head": {
+			"rotation": [0, 0, 282]
+		},
+		"fixed": {
+			"rotation": [0, 0, 282]
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"textures": {
+		"0": "ghef:item/ghef_ball/dark",
+		"particle": "ghef:item/ghef_ball/dark"
+	},
+	"elements": [
+		{
+			"name": "hex1_edge",
+			"from": [7.5, 5.733, 7.13397],
+			"to": [8.5, 5.733, 8.8602],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"down": {"uv": [2, 0, 6, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hex1_face",
+			"from": [7.5, 5.7305, 7.5],
+			"to": [8.5, 5.7305, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"down": {"uv": [2, 2, 6, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"firstperson_righthand": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"ground": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"gui": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"head": {
+			"rotation": [-159.36, 68.93, 90.12]
+		},
+		"fixed": {
+			"rotation": [-159.36, 68.93, 90.12]
+		}
+	}
+}

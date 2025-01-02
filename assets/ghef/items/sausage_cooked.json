@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {"type": "minecraft:model","model": "ghef:item/sausage_cooked/1"},
+      {"type": "minecraft:model","model": "ghef:item/sausage_cooked/2"},
+      {"type": "minecraft:model","model": "ghef:item/sausage_cooked/3"}
+    ]
+  }
+}
