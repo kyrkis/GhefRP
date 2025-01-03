@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"0": "ghef:block/floor_tiles",
-		"1": "ghef:block/floor/slope/side",
+		"1": "ghef:block/floor/slope_side",
 		"2": "ghef:block/concrete"
 	},
 	"elements": [
@@ -23,9 +23,9 @@
 			"to": [16, 16, 15.95],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"north": {"uv": [12, 4, 16, 8], "texture": "#1"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [16, 4, 12, 8], "texture": "#1"},
 				"down": {"uv": [16, 16, 0, 0], "texture": "#2"}
 			}
 		}

@@ -11,7 +11,16 @@
       {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_2_3"},
       {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_1"},
       {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_2"},
-      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_3"}
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_3_3"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_4_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_4_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_4_3"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_5_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_5_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_5_3"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_6_1"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_6_2"},
+      {"type": "minecraft:model","model": "ghef:item/plastic_fan/blade_6_3"}
     ]
   }
 }
