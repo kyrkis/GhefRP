@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "ghef:block/floor/flat_full", "y":0,   "weight": 100}
+        ]
+    }
+}

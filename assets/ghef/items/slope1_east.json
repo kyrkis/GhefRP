@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ghef:block/slope1_east"
+    "model": "ghef:block/floor/slope1_east"
   }
 }

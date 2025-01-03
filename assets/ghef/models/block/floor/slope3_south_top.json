@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "ghef:block/slope/floor_pattern"
+		"1": "ghef:block/floor_tiles"
 	},
 	"elements": [
 		{

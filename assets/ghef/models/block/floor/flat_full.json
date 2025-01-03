@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "ghef:block/concrete",
+    "east": "ghef:block/floor/side_east",
+    "north": "ghef:block/floor/side_north",
+    "particle": "ghef:block/floor_tiles",
+    "south": "ghef:block/floor/side_south",
+    "up": "ghef:block/floor_tiles",
+    "west": "ghef:block/floor/side_west"
+  }
+}
