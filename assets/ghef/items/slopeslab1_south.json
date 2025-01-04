@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {"type": "minecraft:model","model": "ghef:block/floor/slopeslab1_south_base"},
+      {"type": "minecraft:model","model": "ghef:block/floor/slopeslab1_south_top"}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=top": [
+            { "model": "ghef:block/floor/flat_half_top", "y":0,   "weight": 100}
+        ],
+        "type=double": [
+            { "model": "ghef:block/floor/flat_full", "y":0,   "weight": 100}
+        ],
+        "type=bottom": [
+            { "model": "ghef:block/floor/flat_half_bottom", "y":0,   "weight": 100}
+        ]
+    }
+}
